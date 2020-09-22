@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chantilly">"Whipped cream "</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="coberturas">Toppings</string>
+    <string name="encomendar">Order</string>
+    <string name="msg_limite_maximo">The maximum value are 100 coffes</string>
+    <string name="msg_limite_minimo">The minimun value is 1 coffe</string>
+    <string name="name_hint">Name</string>
+    <string name="obrigado">Thank You!</string>
+    <string name="quantidade">Quantity</string>
+    <string name="resumoDoPedido_addChantily">Add Cream Whipped? %b</string>
+    <string name="resumoDoPedido_addChocolate">Add Chocolate? %b</string>
+    <string name="resumoDoPedido_nome">Name: %s</string>
+    <string name="resumoDoPedido_quantidade">Quantity: %d</string>
+    <string name="resumoDoPedido_total">Total:  $ %d</string>
+    <string name="assunto_email">Ordered with the App Just Java by %s</string>
+</resources>

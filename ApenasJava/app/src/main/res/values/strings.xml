@@ -1,0 +1,38 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Apenas Java</string>
+
+    <!-- Caracteres -->
+    <string name="menosCaractere">-</string>
+    <string name="maisCaractere">+</string>
+
+    <string name="valorInicial">2</string>
+
+
+    <!-- dica para EditText no cabeçalho do layout-->
+    <string name="name_hint">Nome</string>
+
+    <string name="coberturas">Coberturas</string>
+
+    <string name="chocolate">Chocolate</string>
+    <string name="chantilly">Chantilly</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="encomendar">Encomendar</string>
+
+    <!-- Mensagem lançada em um Toast quando o limite mínimo -->
+    <string name="msg_limite_minimo">O valor minimo eh 1 cafe</string>
+
+
+    <!-- Mensagem lançada em um Toast quando o limite máximo de quantidade -->
+    <string name="msg_limite_maximo">O valor maximo são 100 cafes</string>
+    <string name="assunto_email">Pedido pelo App Apenas Java por <xliff:g id="nomeDoCliente" example="Pedro">%s</xliff:g></string>>
+
+    <string name="resumoDoPedido_nome">Nome: <xliff:g id="nome" example="Pedro">%s</xliff:g> </string>]
+    <string name="resumoDoPedido_addChantily">Adicionar chantilly? <xliff:g id="verdadeiroFalso" example="true">%b</xliff:g></string>
+    <string name="resumoDoPedido_addChocolate">Adicionar chocolate? <xliff:g id="verdadeiroFalso" example="true">%b</xliff:g></string>
+    <string name="resumoDoPedido_quantidade">Quantidade: %d </string>
+    <string name="resumoDoPedido_total">Total: R$ %d</string>
+    <string name="obrigado">Obrigado!</string>
+
+
+
+</resources>
